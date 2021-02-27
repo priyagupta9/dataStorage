@@ -34,7 +34,7 @@
 }
 @media screen and (max-width: 670px) {
   body {
-    background-image: url(/images/bg-mobile.png);
+    background-image: url(./images/bg-mobile.png);
     background-size: 100%;
   }
   section {
